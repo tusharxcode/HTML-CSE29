@@ -1,0 +1,14 @@
+ <!DOCTYPE html> <html lang="en"
+<head>
+<meta charset="UTF-8" />
+<tile>media tags example<\tile>
+</head>
+<body> <h1>media tags in HTML</h1>
+<h2>image</h2>
+<!--image example-->
+<img src=c:\users\Tushar Singh\Desktop/300x200alt="sample image" width="300" height="200"/>
+<p>this is an image using the <code>&it;img&gt;</code>tag.</p>
+<h2>audio</h2>
+<--audio example-->
+<audio controls>
+source src="sample-audio.mp3"
